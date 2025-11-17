@@ -1,5 +1,0 @@
-{
-  "name": "Pakistan News Summary",
-  "description": "An application that aggregates the latest news from major Pakistani RSS feeds, summarizes them using AI, and displays them with category filters for easy browsing.",
-  "requestFramePermissions": []
-}
