@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1NiO_4-PmivvduojLoHcsNY
 3. Run the app:
    `npm run dev`
 # paknews
+# Pak-News
